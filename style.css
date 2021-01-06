@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+}
+
+.profile-area{
+     clear: both;
+     padding-bottom: 48px;
+}
+
+.half-area{
+    width: 43%;
+    float: left;
+    margin-bottom: 150px;
+}
+
+.half-area img{
+    width: 100%;
+    padding-left: 80px;
+}
+
+
+.half-area h1{
+    font-size: 70px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding-left: 210px;
+    padding-top: 150px;
+    color: #363958;
+    text-transform: uppercase;
+}
+
+
+.half-area h3{
+    font-size: 70px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin:0;
+    padding-left: 210px;
+    text-transform: uppercase;
+}
+
+
+.half-area p{
+    font-size: 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 210px;
+    padding-bottom: 36px;
+
+}
+
+.hire-button{
+    font-size: 20px;
+    padding: 19px 47px;
+    background-color: #FF8063;
+    font-family: 'Roboto Condensed', sans-serif;
+    border-radius: 5px;
+    margin-left: 210px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+.orange-color{
+    color: #FF8063;
+}
+.lasted-area{
+    background-color: rgba(85, 85, 82, 0.027);
+    clear: both;
+    
+}
+.lasted-area h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 95px 0px;
+    color: #363958;
+    
+}
+
+.project-area{
+    clear: both;
+    height: 580px;
+    padding: 0% 5%;
+    margin-top: 25px;
+    padding-bottom: 99px;
+}
+.project-data{
+    width: 29%;
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 15px;
+    box-shadow: 0px 5px 40px rgba(138, 136, 136, 0.541);
+    float: left;
+    margin-left: 38px;
+}
+
+.project-data h2{
+    color: rgb(58, 57, 57);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 25px;
+    margin: 0;
+    padding: 15px 21px;
+    
+}
+
+.project-data p{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 17px;
+    margin: 0;
+    padding-bottom: 25px;
+    padding-left: 21px;
+}
+
+.project-data img{
+    width: 100%;
+}
+.work-area{
+    margin-top: 120px;
+    margin-bottom: 80px;
+    clear: both;
+}
+.work-img{
+    background-image: url(images/Group.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 70%;
+    height: 290px;
+    margin: 0% 15%;
+    border-radius: 53px;
+}
+
+.work-data{
+    display: inline-block;
+}
+
+.work-data{
+    float: left;
+    width: 49%;
+}
+
+.work-data h3{
+    font-size: 55px;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-top: 56px;
+    padding-left: 70px;
+    color: azure;
+}
+
+.work-data a{
+    text-decoration: none;
+    color: cornsilk;
+}
+
+.work-button{
+
+    text-align: right;
+    padding-top: 128px;
+    padding-right: 47px;
+}
+
+.work-link{
+    font-size: 20px;
+    padding: 15px 25px;
+    background-color:#FF8063;
+    font-family: 'Roboto Condensed', sans-serif;
+    border-radius: 5px;
+    
+}
+
+.connected{
+    text-align: center;
+    padding-top:60px;
+    padding-bottom: 90px;
+}
+.icon-size{
+    width: 38px;
+    padding-left: 10px;
+}
+.connected h3{
+    font-family: 'Oswald', sans-serif;
+    font-size: 22px;
+    color: rgb(85, 85, 82);
+    margin: 0px;
+    padding: 12px 0px;
+}
+
+.connected h2{
+    font-size: 40px;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+    padding-bottom: 18px;
+    color: #363958;
+}
