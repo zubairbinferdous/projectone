@@ -1,5 +1,26 @@
 body{
     margin: 0;
+   
+}
+.manu{
+    padding: 15px 0px;
+    margin-right: 180px;
+}
+
+.manu ul {
+
+    list-style-type: none;
+    text-align: right;
+
+}
+
+.manu li{
+    display:inline-block;
+    padding: 15px 25px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    
 }
 
 .profile-area{
@@ -117,9 +138,10 @@ body{
     width: 100%;
 }
 .work-area{
-    margin-top: 120px;
+    margin-top: 100px !important;
     margin-bottom: 80px;
     clear: both;
+    overflow: hidden;
 }
 .work-img{
     background-image: url(images/Group.png);
@@ -158,8 +180,8 @@ body{
 .work-button{
 
     text-align: right;
-    padding-top: 128px;
-    padding-right: 47px;
+    padding-top: 129px;
+    padding-right: 87px;
 }
 
 .work-link{
@@ -195,3 +217,107 @@ body{
     padding-bottom: 18px;
     color: #363958;
 }
+
+.about_service{
+    margin-bottom: 60px !important; 
+    clear: both;
+    height:800px;
+}
+
+.service-bottom{
+    margin-bottom: 100px;
+}
+
+
+.service-data{
+    width: 21%;
+    height: 300px;
+    box-shadow: 0px 5px 40px rgba(138, 136, 136, 0.541);
+    float: left;
+    margin-left: 85px;
+    padding: 3%;
+    background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%);
+    border-radius: 10px;
+}
+
+
+.service-data1{
+    width: 21%;
+    height: 300px;
+    box-shadow: 0px 5px 40px rgba(138, 136, 136, 0.541);
+    float: left;
+    margin-left: 85px;
+    padding: 3%;
+    background-image: linear-gradient(to right, #ff8177 0%, #ff867a 0%, #ff8c7f 21%, #f99185 52%, #cf556c 78%, #b12a5b 100%);
+    border-radius: 10px;
+}
+
+.service-data2{
+    width: 21%;
+    height: 300px;
+    box-shadow: 0px 5px 40px rgba(138, 136, 136, 0.541);
+    float: left;
+    margin-left: 85px;
+    padding: 3%;
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+    border-radius: 10px;
+}
+.service-data h3{
+    font-size: 45px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+}
+
+.service-data p{
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 25px;
+}
+
+.service-data1 h3{
+    font-size: 45px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+}
+
+.service-data1 p{
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 25px;
+}
+
+.service-data2 h3{
+    font-size: 45px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+}
+
+.service-data2 p{
+    font-size: 22px;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 25px;
+}
+
+.about_service h1{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 95px 0px;
+    color: #363958;
+    margin-top: 60px;
+    
+}
+
+
+.service-button{
+    padding: 11px 41px;
+    color: black;
+    background-color: yellow;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 900;
+}
+
